@@ -1,0 +1,40 @@
+/* Select the HTML element with the class "example" */
+.example {
+  color: blue; /* Change the text color to blue */
+  font-size: 20px; /* Set the font size to 20 pixels */
+  background-color: yellow; /* Set the background color to yellow */
+  padding: 10px; /* Add 10 pixels of padding around the element */
+}
+
+/* Select the HTML element with the ID "header" */
+#header {
+  font-weight: bold; /* Make the text bold */
+}
+
+/* Select all the anchor (link) elements */
+a {
+  text-decoration: none; /* Remove the default underline decoration */
+  color: red; /* Change the link color to red */
+}
+
+/* Select the anchor (link) elements on hover */
+a:hover {
+  color: green; /* Change the link color to green on hover */
+}
+
+/* Select the unordered list element */
+ul {
+  list-style-type: none; /* Remove the default bullet points */
+}
+
+/* Select the list items within the unordered list */
+ul li {
+  margin-bottom: 5px; /* Add 5 pixels of margin below each list item */
+}
+
+
+
+
+
+
+
