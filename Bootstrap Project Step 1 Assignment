@@ -1,0 +1,36 @@
+<!-- Example HTML structure for the sections -->
+<body>
+  <nav>
+    <!-- Navigation bar content -->
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#showtimes">Showtimes</a></li>
+      <li><a href="#deals">Deals</a></li>
+    </ul>
+  </nav>
+
+  <section id="about">
+    <!-- About section content -->
+    <!-- ... -->
+  </section>
+
+  <section id="showtimes">
+    <!-- Showtimes section content -->
+    <!-- ... -->
+  </section>
+
+  <section id="deals">
+    <!-- Deals section content -->
+    <!-- ... -->
+  </section>
+
+  <!-- Rest of the page content -->
+</body>
+<!-- Example modified navigation bar with updated links -->
+<nav>
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#showtimes">Showtimes</a></li>
+    <li><a href="#deals">Deals</a></li>
+  </ul>
+</nav>
