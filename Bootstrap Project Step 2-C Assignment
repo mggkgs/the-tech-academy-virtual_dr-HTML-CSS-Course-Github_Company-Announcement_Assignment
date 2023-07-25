@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Add necessary meta tags, title, and CSS links here -->
+</head>
+<body>
+  <div class="jumbotron">
+    <!-- Your jumbotron content goes here -->
+  </div>
+
+  <section id="showtimes">
+    <!-- Add a container for the movie cards -->
+    <div class="container">
+      <!-- Card Deck for movies showing -->
+      <div class="card-deck">
+        <!-- Card 1 -->
+        <div class="card">
+          <img src="movie1.jpg" class="card-img-top" alt="Movie 1">
+          <div class="card-body">
+            <!-- Update the movie title for Card 1 -->
+            <h5 class="card-title">Kong: Skull Island</h5>
+            <p class="card-text">Movie 1 Description</p>
+            <!-- Add more details about the movie here -->
+          </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="card">
+          <img src="movie2.jpg" class="card-img-top" alt="Movie 2">
+          <div class="card-body">
+            <!-- Update the movie title for Card 2 -->
+            <h5 class="card-title">Ghost in the Shell</h5>
+            <p class="card-text">Movie 2 Description</p>
+            <!-- Add more details about the movie here -->
+          </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="card">
+          <img src="movie3.jpg" class="card-img-top" alt="Movie 3">
+          <div class="card-body">
+            <!-- Update the movie title for Card 3 -->
+            <h5 class="card-title">Beauty and the Beast</h5>
+            <p class="card-text">Movie 3 Description</p>
+            <!-- Add more details about the movie here -->
+          </div>
+        </div>
+
+        <!-- Add more movie cards here as needed -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Rest of your webpage content goes here -->
+
+</body>
+</html>
