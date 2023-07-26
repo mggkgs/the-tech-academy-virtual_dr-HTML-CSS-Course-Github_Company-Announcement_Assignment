@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="portfolio.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <style>
+    /* Applying the Roboto font to all paragraphs */
+    p {
+      font-family: 'Roboto', sans-serif;
+    }
+
+    /* Applying a different font to all headings */
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Arial', sans-serif;
+      /* You can add more styles here, like color, font-size, etc. */
+    }
+
+    /* Applying a different style to a specific element with the class "important" */
+    .important {
+      font-weight: bold;
+      color: #ff0000;
+    }
+  </style>
+</head>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph with the Roboto font.</p>
+  <h2>Another heading</h2>
+  <p class="important">This paragraph is styled differently because it has the class "important".</p>
+</body>
+</html>
